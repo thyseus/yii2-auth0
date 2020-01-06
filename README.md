@@ -1,6 +1,8 @@
-anli\auth0
-==========
+thyseus\auth0
+=============
 Yii2 Auth0
+
+this is a fork of the abandoned anli/yii2-auth0 project. It makes it compatible with more recent auth0 plugins.
 
 Installation
 ------------

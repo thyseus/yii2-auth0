@@ -19,8 +19,7 @@
         "auth0/auth0-php": "~5.0",
         "adoy/oauth2": "dev-master",
         "firebase/php-jwt" : "~5.0",
-        "anli/yii2-metronic": "*",
-        "anli/yii2-helper": "*"
+        "anli/yii2-metronic": "*"
     },
     "autoload": {
         "psr-4": {

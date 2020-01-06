@@ -18,7 +18,7 @@
         "yiisoft/yii2": "*",
         "auth0/auth0-php": "~5.0",
         "adoy/oauth2": "dev-master",
-        "firebase/php-jwt" : "v2.2.0",
+        "firebase/php-jwt" : "~5.0",
         "anli/yii2-metronic": "*",
         "anli/yii2-helper": "*"
     },

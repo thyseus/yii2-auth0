@@ -1,5 +1,5 @@
 {
-    "name": "anli/yii2-auth0",
+    "name": "thyseus/yii2-auth0",
     "description": "Yii2 Auth0",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
@@ -8,6 +8,10 @@
         {
             "name": "Su Anli",
             "email": "anli@euqol.com"
+        },
+        {
+            "name": "Herbert Maschke",
+            "email": "thyseus@gmail.com"
         }
     ],
     "require": {

@@ -1,3 +1,9 @@
+ATTENTION:
+==========
+
+This Project has moved to gitlab: https://gitlab.com/thyseus/yii2-auth0 
+Please do not use this repository anymore, thank you.
+
 thyseus\auth0
 =============
 Yii2 Auth0
